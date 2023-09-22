@@ -1,0 +1,50 @@
+{
+	"folders": [
+		{
+			"path": "Studio/ConSolid"
+		}
+	],
+	"settings": {
+		"workbench.colorCustomizations": {
+			"activityBar.background": "#2a3fd1",
+			"activityBar.border": "#2a3fd1",
+			"activityBar.activeBackground": "#0cca62",
+			"activityBar.dropBorder": "#cdc1c1",
+			"activityBar.activeFocusBorder": "#f7efb0",
+			"activityBar.foreground": "#000000",
+			"activityBar.inactiveForeground": "#ede1e1",
+			"activityBarBadge.background": "#0c7c42",
+			"activityBarBadge.foreground": "#ffffff",
+			"sideBar.background": "#121212",
+			"sideBar.border": "#d7c6c6",
+			"sideBarSectionHeader.background": "#2a3fd1",
+			"sideBarSectionHeader.foreground": "#ffffff",
+			"sideBar.foreground": "#8ccba8",
+			"sideBarTitle.foreground": "#ffffff",
+			"editor.background": "#393192",
+			"tab.activeBackground": "#0cca62",
+			"tab.activeForeground": "#000000",
+			"tab.activeModifiedBorder": "#dbce16",
+			"tab.border": "#fffdfd",
+			"tab.hoverBackground": "#2aa1e1",
+			"tab.hoverForeground": "#000000",
+			"tab.inactiveBackground": "#2a3fd1",
+			"tab.inactiveForeground": "#ffaaff",
+			"tab.unfocusedActiveForeground": "#e2d1d1",
+			"menu.background": "#2a3fd1",
+			"menu.selectionBackground": "#0cca62",
+			"menu.foreground": "#ffffff",
+			"menu.selectionForeground": "#000000",
+			"titleBar.activeBackground": "#26328b",
+			"titleBar.activeForeground": "#ffffff",
+			"terminal.background": "#4e5a56",
+			"terminal.border": "#ffffff",
+			"terminal.foreground": "#f2e2e2"
+		}
+	},
+	"extensions": {
+		"recommendations": [
+			"kamikillerto.vscode-colorize"
+		]
+	}
+}
